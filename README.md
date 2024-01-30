@@ -1,5 +1,5 @@
 # core-js-hash-calc
-Calculate the hash value of a specific version of core-js minified js for the script src integrity value.
+Calculate the hash value of a specific version of core-js minified for the script src integrity value.
 
 Example:
 ```
